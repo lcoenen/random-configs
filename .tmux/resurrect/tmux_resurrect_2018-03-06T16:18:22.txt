@@ -1,0 +1,10 @@
+pane	0	0	:Server console	1	:*	0	:/home/jt/Documents/code/current/OpenRide/server	1	npm	:npm
+pane	0	0	:Server console	1	:*	1	:/home/jt/Documents/code/current/OpenRide/server	0	zsh	:
+pane	0	1	:Server edit	0	:-	0	:/home/jt/Documents/code/current/OpenRide/server/app/controllers	1	nvim	:nvim rides.ts
+pane	0	2	:DB console	0	:	0	:/home/jt/Documents/code/current/OpenRide/server	1	mongo	:mongo
+pane	0	3	:Vim	0	:	0	:/home/jt/.config/nvim/minisnip	1	zsh	:
+window	0	0	1	:*	c6ba,237x68,0,0{118x68,0,0,1,118x68,119,0,3}
+window	0	1	0	:-	d2e2,237x68,0,0,5
+window	0	2	0	:	d2e1,237x68,0,0,4
+window	0	3	0	:	d2e3,237x68,0,0,6
+state	0	

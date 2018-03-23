@@ -1,0 +1,29 @@
+pane	0	0	:Server console	0	:	0	:/home/jt/Documents/code/current/OpenRide/server	0	npm	:npm
+pane	0	0	:Server console	0	:	1	:/home/jt/Documents/code/current/OpenRide	1	zsh	:
+pane	0	0	:Server console	0	:	2	:/home/jt/Documents/code/current/OpenRide/server	0	nvim	:nvim package.json
+pane	0	1	:Server edit	0	:-	0	:/home/jt/Documents/code/current/OpenRide/server/app/controllers	1	nvim	:nvim rides.ts
+pane	0	1	:Server edit	0	:-	1	:/home/jt/Documents/code/current/OpenRide/server/app/routes	0	nvim	:nvim rides.ts
+pane	0	2	:DB console	1	:*Z	0	:/home/jt/Documents/code/current/OpenRide/server	1	mongo	:mongo
+pane	0	2	:DB console	1	:*Z	1	:/home/jt/Documents/code/current/OpenRide/shared	0	zsh	:
+pane	0	2	:DB console	1	:*Z	2	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	nvim	:nvim place.ts
+pane	0	2	:DB console	1	:*Z	3	:/home/jt/Documents/code/current/OpenRide/shared/models	0	nvim	:nvim ride.ts
+pane	0	3	:Vim	0	:	0	:/home/jt/.config/nvim/minisnip	1	zsh	:
+pane	0	4	:Server test	0	:	0	:/home/jt/Documents/code/current/OpenRide/server/test	1	nvim	:nvim matching.ts
+pane	0	4	:Server test	0	:	1	:/home/jt/Documents/code/current/OpenRide/server/test	0	nvim	:nvim ride.ts
+pane	0	4	:Server test	0	:	2	:/home/jt/Documents/code/current/OpenRide/server	0	npm	:npm
+pane	0	4	:Server test	0	:	3	:/home/jt/Documents/code/current/OpenRide/shared/bin	0	nvim	:nvim resetmock.ts
+pane	0	4	:Server test	0	:	4	:/home/jt/Documents/code/current/OpenRide/server/app/services	0	nvim	:nvim db.ts
+pane	0	5	:Admin Mongo	0	:	0	:/etc/adminMongo	1	zsh	:
+pane	1	0	:zsh	0	:-	0	:/home/jt/Documents	0	encfs	:encfs .dairy dairy -f
+pane	1	0	:zsh	0	:-	1	:/home/jt/Documents/misc	1	nvim	:nvim feminismisforeverybody
+pane	1	0	:zsh	0	:-	2	:/home/jt/Documents/job-searching	0	nvim	:nvim application
+pane	1	1	:zsh	1	:*	0	:/home/jt/Documents	1	zsh	:
+window	0	0	0	:	ccc5,237x68,0,0{80x68,0,0[80x34,0,0,1,80x33,0,35,2],156x68,81,0,3}
+window	0	1	0	:-	23b5,237x68,0,0{118x68,0,0,4,118x68,119,0,20}
+window	0	2	1	:*Z	c709,237x68,0,0{68x68,0,0,5,168x68,69,0[168x34,69,0,6,168x33,69,35{84x33,69,35,7,83x33,154,35,8}]}
+window	0	3	0	:	d2e6,237x68,0,0,9
+window	0	4	0	:	5622,237x68,0,0[237x34,0,0{118x34,0,0,10,118x34,119,0,11},237x33,0,35{79x33,0,35,12,78x33,80,35,13,78x33,159,35,14}]
+window	0	5	0	:	69a5,237x68,0,0,16
+window	1	0	0	:-	76c4,237x68,0,0{118x68,0,0[118x34,0,0,15,118x33,0,35,18],118x68,119,0,17}
+window	1	1	1	:*	69a8,237x68,0,0,19
+state	0	

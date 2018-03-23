@@ -1,0 +1,25 @@
+pane	0	0	:Test console	0	:	0	:/home/jt	0	zsh	:
+pane	0	0	:Test console	0	:	1	:/home/jt/Documents/code/current/OpenRide/client	1	ionic	:ionic
+pane	0	0	:Test console	0	:	2	:/home/jt/Documents/code/current/OpenRide	0	zsh	:
+pane	0	0	:Test console	0	:	3	:/home/jt/Documents/code/current/OpenRide/server	0	zsh	:
+pane	0	1	:Client edit	1	:*	0	:/home/jt/Documents/code/current/OpenRide/client/src/pages	0	nvim	:nvim offer-invite/offer-invite.ts
+pane	0	1	:Client edit	1	:*	1	:/home/jt/Documents/code/current/OpenRide/client/src/pages	1	zsh	:
+pane	0	2	:Server edit	0	:-	0	:/home/jt/Documents/code/current/OpenRide/server	1	zsh	:
+pane	0	3	:Shared	0	:	0	:/home/jt/Documents/code/current/OpenRide/shared/models	1	nvim	:nvim ride.ts
+pane	0	4	:Server console	0	:	0	:/home/jt/Documents/code/current/OpenRide/server	1	npm	:npm
+pane	0	5	:Vim	0	:	0	:/home/jt/.config/nvim/minisnip	1	nvim	:nvim colo
+pane	1	0	:zsh	0	:-	0	:/home/jt	0	zsh	:
+pane	1	0	:zsh	0	:-	1	:/home/jt/Documents/misc	0	nvim	:nvim feminismisforeverybody
+pane	1	0	:zsh	0	:-	2	:/home/jt/Documents/job-searching	1	nvim	:nvim application
+pane	1	1	:zsh	1	:*	0	:/home/jt/Documents	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/jt/Downloads	1	zsh	:
+window	0	0	0	:	a0ef,237x68,0,0{80x68,0,0[80x34,0,0,0,80x33,0,35,2],156x68,81,0[156x34,81,0,3,156x33,81,35,4]}
+window	0	1	1	:*	1877,237x68,0,0{118x68,0,0,24,118x68,119,0,27}
+window	0	2	0	:-	e9a4,237x68,0,0,25
+window	0	3	0	:	e9a7,237x68,0,0,28
+window	0	4	0	:	e9a5,237x68,0,0,26
+window	0	5	0	:	69a2,237x68,0,0,13
+window	1	0	0	:-	1a89,80x23,0,0{39x23,0,0[39x11,0,0,1,39x11,0,12,20],40x23,40,0,21}
+window	1	1	1	:*	e9a1,237x68,0,0,22
+window	2	0	1	:*	e9a2,237x68,0,0,23
+state	0	1

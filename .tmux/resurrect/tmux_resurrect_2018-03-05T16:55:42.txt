@@ -1,0 +1,22 @@
+pane	0	0	:Edit-mock	0	:	0	:/home/jt/Documents/code/current/OpenRide/shared/models	0	nvim	:nvim place.ts
+pane	0	0	:Edit-mock	0	:	1	:/home/jt/Documents/code/current/OpenRide/shared/models	0	nvim	:nvim ride.ts
+pane	0	0	:Edit-mock	0	:	2	:/home/jt/Documents/code/current/OpenRide/shared/models	0	nvim	:nvim user.ts
+pane	0	0	:Edit-mock	0	:	3	:/home/jt/Documents/code/current/OpenRide/shared/mocks	1	nvim	:nvim ride.ts
+pane	0	0	:Edit-mock	0	:	4	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	nvim	:nvim user.ts
+pane	0	0	:Edit-mock	0	:	5	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	nvim	:nvim place.ts
+pane	0	1	:Edit-bin	0	:-	0	:/home/jt/Documents/code/current/OpenRide/shared/mocks	1	vim	:vim db.ts
+pane	0	1	:Edit-bin	0	:-	1	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	zsh	:
+pane	0	1	:Edit-bin	0	:-	2	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	zsh	:
+pane	0	1	:Edit-bin	0	:-	3	:/home/jt/Documents/code/current/OpenRide/server/app/services	0	nvim	:nvim db.ts
+pane	0	1	:Edit-bin	0	:-	4	:/home/jt/Documents/code/current/OpenRide/server/app/controllers	0	nvim	:nvim rides.ts
+pane	0	2	:Console	1	:*	0	:/home/jt/Documents/code/current/OpenRide/shared/mocks	1	zsh	:
+pane	1	0	:zsh	1	:*	0	:/home/jt	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/jt/.config/nvim	1	zsh	:
+pane	3	0	:zsh	1	:*	0	:/home/jt/.config/nvim	1	zsh	:
+window	0	0	0	:	2ee0,237x68,0,0[237x34,0,0{32x34,0,0,1,102x34,33,0,2,101x34,136,0,3},237x33,0,35{85x33,0,35,4,75x33,86,35,5,75x33,162,35,6}]
+window	0	1	0	:-	d990,237x68,0,0{118x68,0,0[118x34,0,0,7,118x33,0,35{59x33,0,35,8,58x33,60,35,9}],118x68,119,0[118x34,119,0,10,118x33,119,35,11]}
+window	0	2	1	:*	69a4,237x68,0,0,15
+window	1	0	1	:*	69a1,237x68,0,0,12
+window	2	0	1	:*	69a2,237x68,0,0,13
+window	3	0	1	:*	69a3,237x68,0,0,14
+state	0	3

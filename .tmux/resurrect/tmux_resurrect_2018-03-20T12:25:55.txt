@@ -1,0 +1,35 @@
+pane	0	0	:zsh	0	:	0	:/home/jt	0	zsh	:
+pane	0	0	:zsh	0	:	1	:/home/jt/Documents/code/current/OpenRide/client	1	ionic	:ionic
+pane	0	0	:zsh	0	:	2	:/home/jt/Documents/code/current/OpenRide/client	0	zsh	:
+pane	0	0	:zsh	0	:	3	:/home/jt/Documents/code/current/OpenRide	0	zsh	:
+pane	0	1	:Client edit	0	:	0	:/home/jt/Documents/code/current/OpenRide/client/src/pages/offerride	0	nvim	:nvim offerride.ts
+pane	0	1	:Client edit	0	:	1	:/home/jt/Documents/code/current/OpenRide/client/src/pages/offerride	1	nvim	:nvim offerride.html
+pane	0	1	:Client edit	0	:	2	:/home/jt/Documents/code/current/OpenRide/client/src/pages/address-modal	0	nvim	:nvim address-modal.ts
+pane	0	1	:Client edit	0	:	3	:/home/jt/Documents/code/current/OpenRide/client/src/providers/riders	0	vim	:vim riders.ts
+pane	0	1	:Client edit	0	:	4	:/home/jt/Documents/code/current/OpenRide/client/src/providers/nominatim	0	nvim	:nvim nominatim.ts
+pane	0	1	:Client edit	0	:	5	:/home/jt/Documents/code/current/OpenRide/client/src/config	0	vim	:vim config.ts
+pane	0	2	:Server edit	0	:	0	:/home/jt/Documents/code/current/OpenRide/server/app/controllers	0	nvim	:nvim rides.ts
+pane	0	2	:Server edit	0	:	1	:/home/jt/Documents/code/current/OpenRide/server/test	1	nvim	:nvim ride.ts
+pane	0	3	:Shared	0	:-	0	:/home/jt/Documents/code/current/OpenRide/shared/mocks	0	vim	:vim ride.ts
+pane	0	3	:Shared	0	:-	1	:/home/jt/Documents/code/current/OpenRide/shared/models	1	nvim	:nvim ride.ts
+pane	0	4	:Server console	1	:*	0	:/home/jt/Documents/code/current/OpenRide/server	1	npm	:npm
+pane	0	4	:Server console	1	:*	1	:/home/jt/Documents/code/current/OpenRide/server	0	zsh	:
+pane	0	4	:Server console	1	:*	2	:/home/jt/Documents/code/current/OpenRide/server	0	zsh	:
+pane	0	5	:Vim	0	:	0	:/home/jt/.config/nvim/minisnip	1	node	:node
+pane	1	0	:zsh	0	:-	0	:/home/jt	0	zsh	:
+pane	1	0	:zsh	0	:-	1	:/home/jt/Documents/misc	0	nvim	:nvim feminismisforeverybody
+pane	1	0	:zsh	0	:-	2	:/home/jt/Documents/job-searching	1	nvim	:nvim application
+pane	1	1	:zsh	1	:*	0	:/home/jt/Documents	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/jt/Downloads	1	zsh	:
+pane	3	0	:zsh	1	:*	0	:/home/jt	1	zsh	:
+window	0	0	0	:	a16f,237x68,0,0{80x68,0,0[80x34,0,0,1,80x33,0,35,2],156x68,81,0[156x34,81,0,3,156x33,81,35,4]}
+window	0	1	0	:	8203,237x68,0,0{118x68,0,0[118x34,0,0{59x34,0,0,5,58x34,60,0,18},118x33,0,35,16],118x68,119,0[118x22,119,0,6,118x21,119,23,26,118x23,119,45,20]}
+window	0	2	0	:	f587,237x68,0,0[237x34,0,0,7,237x33,0,35,27]
+window	0	3	0	:-	a3b8,237x68,0,0{118x68,0,0,8,118x68,119,0,23}
+window	0	4	1	:*	8067,237x68,0,0{118x68,0,0,9,118x68,119,0[118x34,119,0,24,118x33,119,35,25]}
+window	0	5	0	:	699f,237x68,0,0,10
+window	1	0	0	:-	f6be,237x68,0,0{118x68,0,0[118x34,0,0,11,118x33,0,35,12],118x68,119,0,13}
+window	1	1	1	:*	69a3,237x68,0,0,14
+window	2	0	1	:*	69a4,237x68,0,0,15
+window	3	0	1	:*	e9a7,237x68,0,0,28
+state	0	1

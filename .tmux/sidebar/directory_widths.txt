@@ -1,0 +1,11 @@
+/home/jt	40
+/home/jt	40
+/home/jt	40
+/etc/network	40
+/etc/network	40
+/home/jt	40
+/home/jt/Documents/code/OpenMove	40
+/home/jt/Documents/code/sandbox/openride/src/pages/home	40
+/home/jt/Documents/code/sandbox/openride/src/pages/home	40
+/home/jt/.config/nvim	40
+/home/jt/.config/nvim	40

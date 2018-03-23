@@ -1,0 +1,26 @@
+pane	0	0	:nvim	1	:*	0	:/home/jt/Documents/code/current/OpenRide	1	nvim	:nvim package.json
+pane	1	0	:..rent/OpenRide	0	:-	0	:/home/jt/Documents/code/current/OpenRide	1	zsh	:
+pane	1	1	:nvim	1	:*	0	:/home/jt/Documents/code/current/OpenRide/src/pages/request-find-ride	0	nvim	:nvim request-find-ride.html
+pane	1	1	:nvim	1	:*	1	:/home/jt/Documents/code/current/OpenRide/src/pages/request-find-ride	0	nvim	:nvim request-find-ride.ts
+pane	1	1	:nvim	1	:*	2	:/home/jt/Documents/code/current/OpenRide/src/app	0	nvim	:nvim app.component.ts
+pane	1	1	:nvim	1	:*	3	:/home/jt/Documents/code/current/OpenRide/src/app	0	nvim	:nvim app.component.ts
+pane	1	1	:nvim	1	:*	4	:/home/jt/Documents/code/current/OpenRide/src/app	1	nvim	:nvim app.module.ts
+pane	1	1	:nvim	1	:*	5	:/home/jt/Documents/code/current/OpenRide/src/pages/offer-invite	0	nvim	:nvim offer-invite.html
+pane	1	3	:nvim	0	:	0	:/home/jt/Documents/code/current/OpenRide/src/pages/profile	1	nvim	:nvim profile.html
+pane	1	3	:nvim	0	:	1	:/home/jt/Documents/code/current/OpenRide/src/pages/ride-board	0	nvim	:nvim ride-board.html
+pane	1	3	:nvim	0	:	2	:/home/jt/Documents/code/current/OpenRide/src/pages/ride-board	0	nvim	:nvim ride-board.ts
+pane	1	4	:nvim	0	:	0	:/home/jt/Documents/code/current/OpenRide/src/pages/offer-invite	0	nvim	:nvim offer-invite.html
+pane	1	4	:nvim	0	:	1	:/home/jt/Documents/code/current/OpenRide/src/pages/offer-invite	0	nvim	:nvim offer-invite.ts
+pane	1	4	:nvim	0	:	2	:/home/jt/Documents/code/current/OpenRide/src/pages/my-rides	1	nvim	:nvim my-rides.html
+pane	1	4	:nvim	0	:	3	:/home/jt/Documents/code/current/OpenRide/src/pages/my-rides	0	nvim	:nvim my-rides.ts
+pane	3	0	:~	1	:*	0	:/home/jt	0	zsh	:
+pane	3	0	:~	1	:*	1	:/home/jt	1	zsh	:
+pane	4	0	:~	1	:*	0	:/home/jt	1	zsh	:
+window	0	0	1	:*	cd5f,211x58,0,0,2
+window	1	0	0	:-	cd60,211x58,0,0,3
+window	1	1	1	:*	11ee,211x58,0,0[211x25,0,0{106x25,0,0,4,104x25,107,0,5},211x7,0,26,6,211x6,0,34,24,211x17,0,41{106x17,0,41,7,104x17,107,41,8}]
+window	1	3	0	:	1e7f,211x58,0,0[211x29,0,0,11,211x28,0,30{105x28,0,30,25,105x28,106,30,27}]
+window	1	4	0	:	5725,211x58,0,0[211x18,0,0,21,211x18,0,19,22,211x20,0,38{105x20,0,38,18,105x20,106,38,20}]
+window	3	0	1	:*	0c01,211x58,0,0[211x29,0,0,15,211x28,0,30,16]
+window	4	0	1	:*	66e6,211x58,0,0,17
+state	1	4
